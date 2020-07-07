@@ -31,7 +31,7 @@
     "browser-sync": "^2.13.0",
     "conventional-changelog": "1.1.0",
     "del": "^2.2.0",
-    "electron": "^0.4.1",
+    "electron": "^9.1.0",
     "electron-prebuilt": "^1.2.3",
     "es6-module-loader": "^0.17.11",
     "gulp": "^3.9.1",
